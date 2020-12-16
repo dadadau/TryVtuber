@@ -675,6 +675,33 @@
  <Reference Include="com.unity.multiplayer-hlapi.Runtime">
  <HintPath>/Users/hiroki/Documents/UnityProject/TryVtuber/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.XR.ARKit.FaceTracking.Editor">
+ <HintPath>/Users/hiroki/Documents/UnityProject/TryVtuber/Library/ScriptAssemblies/Unity.XR.ARKit.FaceTracking.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.XR.Management">
+ <HintPath>/Users/hiroki/Documents/UnityProject/TryVtuber/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.XR.ARKit">
+ <HintPath>/Users/hiroki/Documents/UnityProject/TryVtuber/Library/ScriptAssemblies/Unity.XR.ARKit.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Subsystem.Registration">
+ <HintPath>/Users/hiroki/Documents/UnityProject/TryVtuber/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.XR.ARSubsystems">
+ <HintPath>/Users/hiroki/Documents/UnityProject/TryVtuber/Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.XR.ARSubsystems.Editor">
+ <HintPath>/Users/hiroki/Documents/UnityProject/TryVtuber/Library/ScriptAssemblies/Unity.XR.ARSubsystems.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.XR.ARKit.FaceTracking">
+ <HintPath>/Users/hiroki/Documents/UnityProject/TryVtuber/Library/ScriptAssemblies/Unity.XR.ARKit.FaceTracking.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.XR.Management.Editor">
+ <HintPath>/Users/hiroki/Documents/UnityProject/TryVtuber/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.XR.ARKit.Editor">
+ <HintPath>/Users/hiroki/Documents/UnityProject/TryVtuber/Library/ScriptAssemblies/Unity.XR.ARKit.Editor.dll</HintPath>
+ </Reference>
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>
